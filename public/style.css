@@ -1,0 +1,74 @@
+/* global */
+section {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1 {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+h2 {
+    padding-bottom: 2.5%;
+}
+
+/* header */
+#logo {
+    margin: auto;
+    text-align: center;
+}
+
+#fb_logo {
+    max-height: 36px;
+    max-width: 36px;
+}
+
+svg {
+    max-height: 36px;
+    max-width: 36px;
+    color:gray;
+}
+
+/* about me */
+p {
+    text-align: justify;
+}
+
+#about {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+/* pics */
+#carouselExampleControls {
+    max-width: 800px;
+    max-height:min-content;
+    margin: auto;
+}
+
+/* pricing */
+.row {
+    text-align: center;
+}
+
+#discount {
+    margin: auto;
+}
+
+/* contact */
+.form-control {
+    padding-top: 5%;
+}
+
+/* #map {
+    padding-top: 5%;
+} */
+
+/* footer */
+#foot {    
+    text-align: center;
+    background-color: lightgray;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
